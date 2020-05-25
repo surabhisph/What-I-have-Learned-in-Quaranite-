@@ -4,6 +4,10 @@ body{
 }
 h1 {
   font-family : "Arial";
+  border-style: ridge;
+  padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 h2 {
   font-family : "Lucida Sans Unicode";
