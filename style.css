@@ -1,3 +1,15 @@
 body{
-  background-color: #bce9f5
+  background-color: #bce9f5;
+  padding : 15px;
+}
+h1{
+  font-family : "Arial";
+}
+h2{
+  font-family : "Lucida Sans Unicode";
+}
+
+p{
+  font-family :  "Lucida Sans Unicode";
+  font-size : 100%;
 }
