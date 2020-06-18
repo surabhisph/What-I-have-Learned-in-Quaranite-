@@ -31,8 +31,7 @@ p {
 }
 
 .active{
-  background-color: black;
-  border-style: solid;
+   border-style: solid;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 2px;
@@ -67,4 +66,15 @@ a {
   padding-bottom: 5px;
   padding-right: 2px;
   padding-left: 2px;
+}
+
+.thing1{
+   border-style: solid;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 2px;
+  padding-left: 2px;
+}
+a:hover {
+  color: #356973
 }
