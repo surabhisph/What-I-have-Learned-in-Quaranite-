@@ -2,6 +2,7 @@
 body{
   background-image: linear-gradient( #ffffff, #c991b0, #adaddb, #87b0d6);
   padding : 15px;
+  height: 100%;
 }
 h1 {
   font-family : "Arial";
