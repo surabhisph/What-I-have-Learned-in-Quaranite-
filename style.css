@@ -2,7 +2,7 @@ html{
   height: 100%;
 }
 body{
-  background-image: linear-gradient( #ffffff, #c991b0, #adaddb, #87b0d6);
+  background-image: linear-gradient( #ffffff, #adaddb, #87b0d6);
   padding : 15px;
   height: 100%;
   background-attachment: fixed;
